@@ -1,6 +1,6 @@
 {
-  "name": "react-typeform-embed",
-  "version": "0.1.5",
+  "name": "@heyjobs/react-typeform-embed",
+  "version": "0.1.6",
   "main": "./lib/index.js",
   "engines": {
     "node": ">=4.0.0"
@@ -22,8 +22,7 @@
   "dependencies": {
     "@typeform/embed": "^0.5.8",
     "react": "^16.0.0",
-    "react-dom": "^16.0.0",
-    "react-scripts": "1.0.13"
+    "react-dom": "^16.0.0"
   },
   "homepage": "http://alexgarces.github.io/react-typeform-embed/",
   "scripts": {
@@ -52,7 +51,8 @@
     "enzyme-to-json": "^3.1.4",
     "react-test-renderer": "^16.0.0",
     "gh-pages": "^1.0.0",
-    "rimraf": "^2.6.2"
+    "rimraf": "^2.6.2",
+    "react-scripts": "1.0.13"
   },
   "babel": {
     "presets": [
